@@ -1,0 +1,2 @@
+Federal Reserve Bank of St. Louis, Moody's Seasoned Aaa Corporate Bond Minus Federal Funds Rate [AAAFF], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/AAAFF, September 20, 2023.
+Federal Reserve Bank of St. Louis, Moody's Seasoned Baa Corporate Bond Minus Federal Funds Rate [BAAFF], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/BAAFF, September 20, 2023.
